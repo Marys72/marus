@@ -1,0 +1,35 @@
+#Bantik {
+    padding-bottom: 0px;
+    padding-left: 1770px;
+    padding-right: 100px;
+    padding-top: 00px;
+    margin: 12px
+}
+#tex {
+    padding-bottom: 00px;
+    padding-left: 240px;
+    padding-right: 100px;
+    padding-top: 0px;
+}
+#podval {
+    height: 150px; /* Высота блока подвала */
+    background-color: #D8BFD8; /* Фон блока подвала */
+    margin-bottom: 10px; /* Отступ снизу */
+    border-radius: 5px; /* Закруглённые углы */
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px; /* Тень блока */
+}
+#header3 {
+    float: right;
+    width: 1280px;
+    padding-left: 20px;
+}
+#header4 {
+    float: left;
+    width: 1040px;
+    padding-left: 0px;
+}
+#header5 {
+    float: right;
+    width: 1155px;
+    padding-left: 20px;
+}
